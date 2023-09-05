@@ -1,0 +1,152 @@
+[
+    {
+        "id": "caja_resmas-01",
+        "titulo": "Caja de resmas Chamex A4",
+        "imagen": "./img/resmas/01.jpg",
+        "categoria": {
+            "nombre": "Resmas",
+            "id": "Resmas"
+        },"detalle":"Caja de 5 resmas", 
+        "precio": 15000
+    },
+    {
+        "id": "resma-02",
+        "titulo": "Resma Chamex A4",
+        "imagen": "./img/resmas/02.jpg",
+        "categoria": {
+            "nombre": "Resmas",
+            "id": "Resmas"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "resma-03",
+        "titulo": "Caja de resmas Punax",
+        "imagen": "./img/resmas/03.jpg",
+        "categoria": {
+            "nombre": "Resmas",
+            "id": "Resmas"
+        },"detalle":"Caja de 10 resmas",
+        "precio": 25000
+    },
+    {
+        "id": "resma-04",
+        "titulo": "Resma Punax A4",
+        "imagen": "./img/resmas/04.jpg",
+        "categoria": {
+            "nombre": "Resmas",
+            "id": "Resmas"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "resma-05",
+        "titulo": "Resma Autor A4",
+        "imagen": "./img/resmas/05.jpg",
+        "categoria": {
+            "nombre": "Resmas",
+            "id": "Resmas"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "marcadores-01",
+        "titulo": "Kit de Marcadores BIC",
+        "imagen": "./img/marcadores/01.jpg",
+        "categoria": {
+            "nombre": "Marcadores",
+            "id": "Marcadores"
+        }, "detalle":"Kit de marcadores de colores permanentes BIC x24",
+        "precio": 12000
+    },
+    {
+        "id": "marcadores-02",
+        "titulo": "Kit de marcadores pastel BIC",
+        "imagen": "./img/marcadores/02.jpg",
+        "categoria": {
+            "nombre": "Marcadores",
+            "id": "Marcadores"
+        },"detalle":"Kit de marcadores de colores pastel BIC x12, microfibras y fibras",
+        "precio": 8000
+    },
+    {
+        "id": "marcadores-03",
+        "titulo": "Resaltador de Color",
+        "imagen": "./img/marcadores/03.jpg",
+        "categoria": {
+            "nombre": "Marcadores",
+            "id": "Marcadores"
+        }, "detalle":"Resaltador individual marca Faber-Castel, varios colores",
+        "precio": 300
+    },
+    {
+        "id": "marcadores-04",
+        "titulo": "Marcador de Pizarra Blanca",
+        "imagen": "./img/marcadores/04.jpg",
+        "categoria": {
+            "nombre": "Marcadores",
+            "id": "Marcadores"
+        }, "detalle":"Marcador individual marca Trabi, varios colores",
+        "precio": 700
+    },
+    {
+        "id": "marcadores-05",
+        "titulo": "Marcador Acrílico Permanente",
+        "imagen": "./img/marcadores/05.jpg",
+        "categoria": {
+            "nombre": "Marcadores",
+            "id": "Marcadores"
+        }, "detalle":"Marcador individual marca Graffiti para varias superficies, varios colores",
+        "precio": 1000
+    },
+    {
+        "id": "lapiceras-01",
+        "titulo": "Lapicera Borrable",
+        "imagen": "./img/lapiceras/01.jpg",
+        "categoria": {
+            "nombre": "Lapiceras",
+            "id": "Lapiceras"
+        }, "detalle":"Lapicera individual borrable marca Pellikan con cartucho intercambiable",
+        "precio": 450
+    },
+    {
+        "id": "lapiceras-02",
+        "titulo": "Lapicera Retráctil Múltiple",
+        "imagen": "./img/lapiceras/02.jpg",
+        "categoria": {
+            "nombre": "Lapiceras",
+            "id": "Lapiceras"
+        }, "detalle":"Lapicera individual retractil múltiple, varios motivos",
+        "precio": 2000
+    },
+    {
+        "id": "lapiceras-03",
+        "titulo": "Bolígrafo Retráctil",
+        "imagen": "./img/lapiceras/03.jpg",
+        "categoria": {
+            "nombre": "Lapiceras",
+            "id": "Lapiceras"
+        }, "detalle":"Bolígrafo individual retráctil marca Simball, colores: azul/negro",
+        "precio": 350
+    },
+    {
+        "id": "lapiceras-04",
+        "titulo": "Lapicera Trazo Fino - Grueso BIC",
+        "imagen": "./img/lapiceras/04.jpg",
+        "categoria": {
+            "nombre": "Lapiceras",
+            "id": "Lapiceras"
+        }, "detalle":"Lapicera individual marca BIC, varios colores, trazo: fino/grueso",
+        "precio": 200
+    },
+    {
+        "id": "lapiceras-05",
+        "titulo": "Kit Lapiceras de Colores EZCO",
+        "imagen": "./img/lapiceras/05.jpg",
+        "categoria": {
+            "nombre": "Lapiceras",
+            "id": "Lapiceras"
+        }, "detalle":"Kit de lapiceras de colores EZCO x12, punta metálica",
+        "precio": 3000
+    }
+]
